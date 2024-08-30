@@ -5,10 +5,9 @@ Mathematical Modeling of Covid-19 (SEICRD model)
 
 Implementation of SI, SIS, SIR network model.ipynb
 
-Математички модели SI, SIS, SIR за предвидување на текот на било која заразна болест. Моделите се имплементирани на BasrbasiAlbert мрежа.
+Mathematical Models SI, SIS, SIR for Predicting the Course of Any Infectious Disease. The models are implemented on the Barabási-Albert network.
 
 ------------------------------------------------------------------------
 Implementation of SEICR network model.ipynb 
 
-SEIRCD претставува општ модел кој може да се користи за предвидување на текот на било која заразна болест. Моделот според претходно дефинирани параметри може да определи состојбата на популацијата или во нашиот случај состојба на секој член на дадена популација во временска единица. Параметрите кои ќе ги користиме претставуваат статистички вредности преземени за актуелната пандемија на вирусот COVID-19. Користејќи го овој модел можеме да ги набљудуваме разликите во развојот на вирусот за промена на параметрите и да донесеме заклучок кои вредности на параметрите ќе придонесат во најбавен развој на болеста како можни интервенции во справување на пандемијата. Моделот е имплементиран на мрежа добиена со помош на Lancichinetti–Fortunato–Radicchi benchmark алгоритамот. 
-Подетално во Документација.pdf
+SEIRCD represents a general model that can be used to predict the course of any infectious disease. Based on predefined parameters, the model can determine the state of the population or, in our case, the state of each member of a given population at a specific time unit. The parameters we will use are statistical values taken from the current COVID-19 pandemic. Using this model, we can observe differences in the development of the virus with changes in parameters and draw conclusions about which parameter values will contribute to the slowest development of the disease as possible interventions for managing the pandemic. The model is implemented on a network generated using the Lancichinetti–Fortunato–Radicchi benchmark algorithm. More details can be found in Документација.pdf.
